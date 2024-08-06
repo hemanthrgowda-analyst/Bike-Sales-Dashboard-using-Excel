@@ -14,6 +14,7 @@ About Dataset:
 - Extract the valuable and meaningful insight from it
 - Sales According to male and female or Products
 - number of each product and its sales and so on.
+  Source: Kaggle - https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe/data
 
 Pivot Tables:
 1. The Avg income who did not buy bike.
